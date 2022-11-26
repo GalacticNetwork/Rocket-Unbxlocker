@@ -1,4 +1,4 @@
-<div align="center">
+
 # Rocket-Unbxlocker
 A beta proxy with planned dual proxy
 # Features:
